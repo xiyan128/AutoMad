@@ -1,6 +1,8 @@
 # AutoMad
 DSSQ Anime Music Video generator. Not for serious use.
 
+[DEMO](https://www.bilibili.com/video/BV1eA411W772)
+
 ## Installation
 
 Prerequisite: Anaconda
